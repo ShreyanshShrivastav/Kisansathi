@@ -15,3 +15,4 @@
 <img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/6583ebe5-6dcf-424e-878d-80fa96bfe88b" />
 <img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/32d9b2ee-3df0-4cfa-97d1-a11590cef421" />
 <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/1542a3a3-5464-4369-acc9-ff5d82a21236" />
+<img width="5289" height="4966" alt="Farmer Marketplace Data Model-2026-10-25-155918" src="https://github.com/user-attachments/assets/c1b3dc88-4cc9-46f0-acb0-e2adee3a110a" />
